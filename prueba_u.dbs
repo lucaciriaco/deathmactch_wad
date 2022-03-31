@@ -1,0 +1,113 @@
+type = "Doom Builder Map Settings Configuration";
+gameconfig = "ZDaemon_DoomHexen.cfg";
+strictpatches = 0;
+
+maps
+{
+	
+	MAP05
+	{
+		defaultceiltexture = "MTTKF01";
+		overridefloorheight = false;
+		customfloorheight = 0;
+		uselongtexturenames = false;
+		scriptcompiler = "zdaemon_acs.cfg";
+		
+		resources
+		{
+			
+			resource0
+			{
+				type = 0;
+				location = "C:\\Users\\Ernesto\\Documents\\Doom\\deathmatch_wad\\Textures.wad";
+				option1 = 0;
+				option2 = 0;
+				notfortesting = 0;
+			}
+		}
+		overrideceiltexture = false;
+		viewpositionx = -283.3947f;
+		defaulttoptexture = "BROWNGRN";
+		overrideceilheight = false;
+		useresourcesinreadonlymode = false;
+		overridebrightness = false;
+		overridefloortexture = false;
+		
+		grid
+		{
+			backoffsetx = 0;
+			backsource = 0;
+			gridoriginy = 0;
+			backscaley = 100;
+			gridrotate = 0;
+			backscalex = 100;
+			gridoriginx = 0;
+			gridsize = 16;
+			background = "";
+			backoffsety = 0;
+		}
+		overridebottomtexture = false;
+		defaultbottomtexture = "BROWNGRN";
+		defaultfloortexture = "FLOOR0_B";
+		viewpositiony = 906.1211f;
+		defaultwalltexture = "BROWNGRN";
+		overridetoptexture = false;
+		customceilheight = 128;
+		overridemiddletexture = false;
+		custombrightness = 196;
+		viewscale = 1.691812f;
+	}
+	
+	MAP01
+	{
+		defaultceiltexture = "CEIL1_1";
+		overridefloorheight = false;
+		customfloorheight = 0;
+		uselongtexturenames = false;
+		scriptcompiler = "zdaemon_acs.cfg";
+		
+		resources
+		{
+			
+			resource0
+			{
+				type = 0;
+				location = "C:\\Users\\Ernesto\\Documents\\Doom\\deathmatch_wad\\Textures.wad";
+				option1 = 0;
+				option2 = 0;
+				notfortesting = 0;
+			}
+		}
+		overrideceiltexture = false;
+		viewpositionx = 778.4852f;
+		defaulttoptexture = "BROWN4";
+		overrideceilheight = false;
+		useresourcesinreadonlymode = false;
+		overridebrightness = false;
+		overridefloortexture = false;
+		
+		grid
+		{
+			backoffsetx = 0;
+			backsource = 0;
+			gridoriginy = 0;
+			backscaley = 100;
+			gridrotate = 0;
+			backscalex = 100;
+			gridoriginx = 0;
+			gridsize = 8;
+			background = "";
+			backoffsety = 0;
+		}
+		overridebottomtexture = false;
+		defaultbottomtexture = "BROWN4";
+		defaultfloortexture = "FLOOR0_1";
+		viewpositiony = -804.3774f;
+		defaultwalltexture = "BROWN4";
+		overridetoptexture = false;
+		customceilheight = 128;
+		overridemiddletexture = false;
+		custombrightness = 196;
+		viewscale = 4.460305f;
+	}
+}
