@@ -19,15 +19,15 @@ maps
 			resource0
 			{
 				type = 0;
-				location = "C:\\Users\\Ernesto\\Documents\\Doom\\deathmatch_wad\\Textures.wad";
+				location = "C:\\Users\\Luca\\Documents\\Doom\\deathmatch_wad\\Textures.wad";
 				option1 = 0;
 				option2 = 0;
 				notfortesting = 0;
 			}
 		}
 		overrideceiltexture = false;
-		viewpositionx = -283.3947f;
-		defaulttoptexture = "BROWNGRN";
+		viewpositionx = -304.9242f;
+		defaulttoptexture = "BRONZEG5";
 		overrideceilheight = false;
 		useresourcesinreadonlymode = false;
 		overridebrightness = false;
@@ -42,20 +42,20 @@ maps
 			gridrotate = 0;
 			backscalex = 100;
 			gridoriginx = 0;
-			gridsize = 16;
+			gridsize = 8;
 			background = "";
 			backoffsety = 0;
 		}
 		overridebottomtexture = false;
-		defaultbottomtexture = "BROWNGRN";
+		defaultbottomtexture = "BRONZEG5";
 		defaultfloortexture = "FLOOR0_B";
-		viewpositiony = 906.1211f;
-		defaultwalltexture = "BROWNGRN";
+		viewpositiony = 687.8567f;
+		defaultwalltexture = "BRONZEG5";
 		overridetoptexture = false;
 		customceilheight = 128;
 		overridemiddletexture = false;
 		custombrightness = 196;
-		viewscale = 1.691812f;
+		viewscale = 1.461913f;
 	}
 	
 	MAP01
@@ -72,14 +72,14 @@ maps
 			resource0
 			{
 				type = 0;
-				location = "C:\\Users\\Ernesto\\Documents\\Doom\\deathmatch_wad\\Textures.wad";
+				location = "C:\\Users\\Luca\\Documents\\Doom\\deathmatch_wad\\Textures.wad";
 				option1 = 0;
 				option2 = 0;
 				notfortesting = 0;
 			}
 		}
 		overrideceiltexture = false;
-		viewpositionx = 778.4852f;
+		viewpositionx = -149.1059f;
 		defaulttoptexture = "BROWN4";
 		overrideceilheight = false;
 		useresourcesinreadonlymode = false;
@@ -102,12 +102,273 @@ maps
 		overridebottomtexture = false;
 		defaultbottomtexture = "BROWN4";
 		defaultfloortexture = "FLOOR0_1";
-		viewpositiony = -804.3774f;
+		viewpositiony = 445.0985f;
 		defaultwalltexture = "BROWN4";
 		overridetoptexture = false;
 		customceilheight = 128;
 		overridemiddletexture = false;
 		custombrightness = 196;
-		viewscale = 4.460305f;
+		viewscale = 2.639231f;
+	}
+	
+	MAP02
+	{
+		defaultceiltexture = "FLOOR03D";
+		overridefloorheight = false;
+		customfloorheight = 0;
+		uselongtexturenames = false;
+		scriptcompiler = "zdaemon_acs.cfg";
+		
+		resources
+		{
+			
+			resource0
+			{
+				type = 0;
+				location = "C:\\Users\\Luca\\Documents\\Doom\\Dm\\Textures.wad";
+				option1 = 0;
+				option2 = 0;
+				notfortesting = 0;
+			}
+		}
+		overrideceiltexture = false;
+		viewpositionx = -1731.047f;
+		defaulttoptexture = "BIGBRIK2";
+		overrideceilheight = false;
+		viewpositiony = -1067.132f;
+		overridebrightness = false;
+		overridefloortexture = false;
+		
+		grid
+		{
+			backoffsetx = 0;
+			backsource = 0;
+			gridoriginy = 0;
+			backscaley = 100;
+			gridrotate = 0;
+			backscalex = 100;
+			gridoriginx = 0;
+			gridsize = 1;
+			background = "";
+			backoffsety = 0;
+		}
+		overridebottomtexture = false;
+		defaultbottomtexture = "BIGBRIK2";
+		defaultfloortexture = "FLOOR03D";
+		defaultwalltexture = "BIGBRIK2";
+		overridetoptexture = false;
+		customceilheight = 128;
+		overridemiddletexture = false;
+		custombrightness = 196;
+		viewscale = 5.488718f;
+	}
+	
+	MAP06
+	{
+		defaultceiltexture = "FLOOR0_1";
+		overridefloorheight = false;
+		customfloorheight = 0;
+		uselongtexturenames = false;
+		scriptcompiler = "zdaemon_acs.cfg";
+		
+		resources
+		{
+		}
+		overrideceiltexture = false;
+		viewpositionx = 1005.503f;
+		defaulttoptexture = "BROWNGRN";
+		overrideceilheight = false;
+		viewpositiony = 570.4568f;
+		overridebrightness = false;
+		overridefloortexture = false;
+		
+		grid
+		{
+			backoffsetx = 0;
+			backsource = 0;
+			gridoriginy = 0;
+			backscaley = 100;
+			gridrotate = 0;
+			backscalex = 100;
+			gridoriginx = 0;
+			gridsize = 32;
+			background = "";
+			backoffsety = 0;
+		}
+		overridebottomtexture = false;
+		defaultbottomtexture = "BROWNGRN";
+		defaultfloortexture = "FLOOR0_1";
+		defaultwalltexture = "BROWNGRN";
+		overridetoptexture = false;
+		customceilheight = 128;
+		overridemiddletexture = false;
+		custombrightness = 196;
+		viewscale = 0.2111529f;
+	}
+	
+	MAP07
+	{
+		defaultceiltexture = "F_SKY1";
+		overridefloorheight = false;
+		customfloorheight = 0;
+		uselongtexturenames = false;
+		scriptcompiler = "zdaemon_acs.cfg";
+		
+		resources
+		{
+			
+			resource0
+			{
+				type = 0;
+				location = "C:\\Users\\Luca\\Documents\\Doom\\deathmatch_wad\\Textures.wad";
+				option1 = 0;
+				option2 = 0;
+				notfortesting = 0;
+			}
+		}
+		overrideceiltexture = false;
+		viewpositionx = 1940.059f;
+		defaulttoptexture = "METAL";
+		overrideceilheight = false;
+		viewpositiony = -483.5931f;
+		overridebrightness = false;
+		overridefloortexture = false;
+		
+		grid
+		{
+			backoffsetx = 0;
+			backsource = 0;
+			gridoriginy = 0;
+			backscaley = 100;
+			gridrotate = 0;
+			backscalex = 100;
+			gridoriginx = 0;
+			gridsize = 32;
+			background = "";
+			backoffsety = 0;
+		}
+		overridebottomtexture = false;
+		defaultbottomtexture = "METAL";
+		defaultfloortexture = "FLOOR0_1";
+		defaultwalltexture = "METAL";
+		overridetoptexture = false;
+		customceilheight = 128;
+		overridemiddletexture = false;
+		custombrightness = 196;
+		viewscale = 0.7302963f;
+	}
+	
+	MAP12
+	{
+		defaultceiltexture = "F_SKY1";
+		overridefloorheight = false;
+		customfloorheight = 0;
+		uselongtexturenames = false;
+		scriptcompiler = "zdaemon_acs.cfg";
+		
+		resources
+		{
+			
+			resource0
+			{
+				type = 0;
+				location = "C:\\Users\\Luca\\Documents\\Doom\\deathmatch_wad\\Textures.wad";
+				option1 = 0;
+				option2 = 0;
+				notfortesting = 0;
+			}
+		}
+		overrideceiltexture = false;
+		viewpositionx = 455.9846f;
+		defaulttoptexture = "BROWN96";
+		overrideceilheight = false;
+		viewpositiony = 422.1157f;
+		overridebrightness = false;
+		overridefloortexture = false;
+		
+		grid
+		{
+			backoffsetx = 0;
+			backsource = 0;
+			gridoriginy = 0;
+			backscaley = 100;
+			gridrotate = 0;
+			backscalex = 100;
+			gridoriginx = 0;
+			gridsize = 32;
+			background = "";
+			backoffsety = 0;
+		}
+		overridebottomtexture = false;
+		defaultbottomtexture = "BROWN96";
+		defaultfloortexture = "FLOOR0_1";
+		
+		taglabels
+		{
+			
+			taglabel1
+			{
+				tag = 5;
+				label = "C";
+			}
+		}
+		defaultwalltexture = "BROWN96";
+		overridetoptexture = false;
+		customceilheight = 128;
+		overridemiddletexture = false;
+		custombrightness = 196;
+		viewscale = 0.1827096f;
+	}
+	
+	MAP09
+	{
+		defaultceiltexture = "CEIL1_1";
+		overridefloorheight = false;
+		customfloorheight = 0;
+		uselongtexturenames = false;
+		scriptcompiler = "zdaemon_acs.cfg";
+		
+		resources
+		{
+			
+			resource0
+			{
+				type = 0;
+				location = "C:\\Users\\Luca\\Documents\\Doom\\Dm\\Textures.wad";
+				option1 = 0;
+				option2 = 0;
+				notfortesting = 0;
+			}
+		}
+		overrideceiltexture = false;
+		viewpositionx = 176.199f;
+		defaulttoptexture = "BROWN96";
+		overrideceilheight = false;
+		viewpositiony = -406.137f;
+		overridebrightness = false;
+		overridefloortexture = false;
+		
+		grid
+		{
+			backoffsetx = 0;
+			backsource = 0;
+			gridoriginy = 0;
+			backscaley = 100;
+			gridrotate = 0;
+			backscalex = 100;
+			gridoriginx = 0;
+			gridsize = 32;
+			background = "";
+			backoffsety = 0;
+		}
+		overridebottomtexture = false;
+		defaultbottomtexture = "BROWN96";
+		defaultfloortexture = "FLOOR0_1";
+		defaultwalltexture = "BROWN96";
+		overridetoptexture = false;
+		customceilheight = 128;
+		overridemiddletexture = false;
+		custombrightness = 196;
+		viewscale = 1.50161f;
 	}
 }
