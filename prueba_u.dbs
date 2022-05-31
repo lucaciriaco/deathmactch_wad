@@ -26,7 +26,7 @@ maps
 			}
 		}
 		overrideceiltexture = false;
-		viewpositionx = -304.9242f;
+		viewpositionx = 1843.661f;
 		defaulttoptexture = "BRONZEG5";
 		overrideceilheight = false;
 		useresourcesinreadonlymode = false;
@@ -42,20 +42,20 @@ maps
 			gridrotate = 0;
 			backscalex = 100;
 			gridoriginx = 0;
-			gridsize = 8;
+			gridsize = 16;
 			background = "";
 			backoffsety = 0;
 		}
 		overridebottomtexture = false;
 		defaultbottomtexture = "BRONZEG5";
 		defaultfloortexture = "FLOOR0_B";
-		viewpositiony = 687.8567f;
+		viewpositiony = 534.8458f;
 		defaultwalltexture = "BRONZEG5";
 		overridetoptexture = false;
 		customceilheight = 128;
 		overridemiddletexture = false;
 		custombrightness = 196;
-		viewscale = 1.461913f;
+		viewscale = 0.1792146f;
 	}
 	
 	MAP01
@@ -370,5 +370,57 @@ maps
 		overridemiddletexture = false;
 		custombrightness = 196;
 		viewscale = 1.50161f;
+	}
+	
+	MAP10
+	{
+		defaultceiltexture = "CEIL1_1";
+		overridefloorheight = false;
+		customfloorheight = 0;
+		uselongtexturenames = false;
+		scriptcompiler = "zdaemon_acs.cfg";
+		
+		resources
+		{
+			
+			resource0
+			{
+				type = 0;
+				location = "C:\\Users\\Luca\\Documents\\Doom\\deathmatch_wad\\Textures.wad";
+				option1 = 0;
+				option2 = 0;
+				notfortesting = 0;
+			}
+		}
+		overrideceiltexture = false;
+		viewpositionx = 604.5276f;
+		defaulttoptexture = "BROWNGRN";
+		overrideceilheight = false;
+		viewpositiony = 117.2096f;
+		overridebrightness = false;
+		overridefloortexture = false;
+		
+		grid
+		{
+			backoffsetx = 0;
+			backsource = 0;
+			gridoriginy = 0;
+			backscaley = 100;
+			gridrotate = 0;
+			backscalex = 100;
+			gridoriginx = 0;
+			gridsize = 16;
+			background = "";
+			backoffsety = 0;
+		}
+		overridebottomtexture = false;
+		defaultbottomtexture = "BROWNGRN";
+		defaultfloortexture = "FLOOR0_1";
+		defaultwalltexture = "BROWNGRN";
+		overridetoptexture = false;
+		customceilheight = 128;
+		overridemiddletexture = false;
+		custombrightness = 196;
+		viewscale = 0.788631f;
 	}
 }
