@@ -26,7 +26,7 @@ maps
 			}
 		}
 		overrideceiltexture = false;
-		viewpositionx = 1843.661f;
+		viewpositionx = 887.9655f;
 		defaulttoptexture = "BRONZEG5";
 		overrideceilheight = false;
 		useresourcesinreadonlymode = false;
@@ -42,20 +42,20 @@ maps
 			gridrotate = 0;
 			backscalex = 100;
 			gridoriginx = 0;
-			gridsize = 16;
+			gridsize = 4;
 			background = "";
 			backoffsety = 0;
 		}
 		overridebottomtexture = false;
 		defaultbottomtexture = "BRONZEG5";
 		defaultfloortexture = "FLOOR0_B";
-		viewpositiony = 534.8458f;
+		viewpositiony = -235.5553f;
 		defaultwalltexture = "BRONZEG5";
 		overridetoptexture = false;
 		customceilheight = 128;
 		overridemiddletexture = false;
 		custombrightness = 196;
-		viewscale = 0.1792146f;
+		viewscale = 0.1378559f;
 	}
 	
 	MAP01
@@ -173,12 +173,21 @@ maps
 		
 		resources
 		{
+			
+			resource0
+			{
+				type = 0;
+				location = "C:\\Users\\Luca\\Documents\\Doom\\deathmatch_wad\\Textures.wad";
+				option1 = 0;
+				option2 = 0;
+				notfortesting = 0;
+			}
 		}
 		overrideceiltexture = false;
-		viewpositionx = 1005.503f;
+		viewpositionx = 540.8048f;
 		defaulttoptexture = "BROWNGRN";
 		overrideceilheight = false;
-		viewpositiony = 570.4568f;
+		viewpositiony = 1534.242f;
 		overridebrightness = false;
 		overridefloortexture = false;
 		
@@ -191,7 +200,7 @@ maps
 			gridrotate = 0;
 			backscalex = 100;
 			gridoriginx = 0;
-			gridsize = 32;
+			gridsize = 16;
 			background = "";
 			backoffsety = 0;
 		}
@@ -203,7 +212,7 @@ maps
 		customceilheight = 128;
 		overridemiddletexture = false;
 		custombrightness = 196;
-		viewscale = 0.2111529f;
+		viewscale = 1.324952f;
 	}
 	
 	MAP07
@@ -279,10 +288,10 @@ maps
 			}
 		}
 		overrideceiltexture = false;
-		viewpositionx = 455.9846f;
-		defaulttoptexture = "BROWN96";
+		viewpositionx = 2581.985f;
+		defaulttoptexture = "SUPP332";
 		overrideceilheight = false;
-		viewpositiony = 422.1157f;
+		viewpositiony = 1836.028f;
 		overridebrightness = false;
 		overridefloortexture = false;
 		
@@ -295,13 +304,13 @@ maps
 			gridrotate = 0;
 			backscalex = 100;
 			gridoriginx = 0;
-			gridsize = 32;
+			gridsize = 2;
 			background = "";
 			backoffsety = 0;
 		}
 		overridebottomtexture = false;
-		defaultbottomtexture = "BROWN96";
-		defaultfloortexture = "FLOOR0_1";
+		defaultbottomtexture = "SUPP332";
+		defaultfloortexture = "WOODF1";
 		
 		taglabels
 		{
@@ -312,12 +321,12 @@ maps
 				label = "C";
 			}
 		}
-		defaultwalltexture = "BROWN96";
+		defaultwalltexture = "SUPP332";
 		overridetoptexture = false;
 		customceilheight = 128;
 		overridemiddletexture = false;
 		custombrightness = 196;
-		viewscale = 0.1827096f;
+		viewscale = 0.08316278f;
 	}
 	
 	MAP09
@@ -334,17 +343,17 @@ maps
 			resource0
 			{
 				type = 0;
-				location = "C:\\Users\\Luca\\Documents\\Doom\\Dm\\Textures.wad";
+				location = "C:\\Users\\Luca\\Documents\\Doom\\deathmatch_wad\\Textures.wad";
 				option1 = 0;
 				option2 = 0;
 				notfortesting = 0;
 			}
 		}
 		overrideceiltexture = false;
-		viewpositionx = 176.199f;
-		defaulttoptexture = "BROWN96";
+		viewpositionx = 916.4863f;
+		defaulttoptexture = "SNOWMID1";
 		overrideceilheight = false;
-		viewpositiony = -406.137f;
+		viewpositiony = 708.2598f;
 		overridebrightness = false;
 		overridefloortexture = false;
 		
@@ -357,19 +366,19 @@ maps
 			gridrotate = 0;
 			backscalex = 100;
 			gridoriginx = 0;
-			gridsize = 32;
+			gridsize = 4;
 			background = "";
 			backoffsety = 0;
 		}
 		overridebottomtexture = false;
-		defaultbottomtexture = "BROWN96";
+		defaultbottomtexture = "SNOWMID1";
 		defaultfloortexture = "FLOOR0_1";
-		defaultwalltexture = "BROWN96";
+		defaultwalltexture = "SNOWMID1";
 		overridetoptexture = false;
 		customceilheight = 128;
 		overridemiddletexture = false;
 		custombrightness = 196;
-		viewscale = 1.50161f;
+		viewscale = 7.056374f;
 	}
 	
 	MAP10
@@ -393,10 +402,10 @@ maps
 			}
 		}
 		overrideceiltexture = false;
-		viewpositionx = 604.5276f;
+		viewpositionx = 2915.482f;
 		defaulttoptexture = "BROWNGRN";
 		overrideceilheight = false;
-		viewpositiony = 117.2096f;
+		viewpositiony = 186.9547f;
 		overridebrightness = false;
 		overridefloortexture = false;
 		
@@ -409,7 +418,7 @@ maps
 			gridrotate = 0;
 			backscalex = 100;
 			gridoriginx = 0;
-			gridsize = 16;
+			gridsize = 8;
 			background = "";
 			backoffsety = 0;
 		}
@@ -421,6 +430,6 @@ maps
 		customceilheight = 128;
 		overridemiddletexture = false;
 		custombrightness = 196;
-		viewscale = 0.788631f;
+		viewscale = 0.2124013f;
 	}
 }
