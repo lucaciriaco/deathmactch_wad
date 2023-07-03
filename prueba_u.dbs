@@ -19,14 +19,15 @@ maps
 			resource0
 			{
 				type = 0;
-				location = "C:\\Users\\Luca\\Documents\\Doom\\deathmatch_wad\\Textures.wad";
+				location = "D:\\Luca\\Documents\\Doom\\deathmatch_wad\\Textures.wad";
 				option1 = 0;
 				option2 = 0;
 				notfortesting = 0;
+				requiredarchives = "";
 			}
 		}
 		overrideceiltexture = false;
-		viewpositionx = 887.9655f;
+		viewpositionx = -342.0833f;
 		defaulttoptexture = "BRONZEG5";
 		overrideceilheight = false;
 		useresourcesinreadonlymode = false;
@@ -49,13 +50,41 @@ maps
 		overridebottomtexture = false;
 		defaultbottomtexture = "BRONZEG5";
 		defaultfloortexture = "FLOOR0_B";
-		viewpositiony = -235.5553f;
+		viewpositiony = -709.0214f;
 		defaultwalltexture = "BRONZEG5";
 		overridetoptexture = false;
 		customceilheight = 128;
 		overridemiddletexture = false;
 		custombrightness = 196;
-		viewscale = 0.1378559f;
+		viewscale = 11.92527f;
+		
+		reloadresourceprecommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		
+		reloadresourcepostcommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		
+		testprecommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		
+		testpostcommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
 	}
 	
 	MAP01
@@ -72,14 +101,15 @@ maps
 			resource0
 			{
 				type = 0;
-				location = "C:\\Users\\Luca\\Documents\\Doom\\deathmatch_wad\\Textures.wad";
+				location = "D:\\Luca\\Documents\\Doom\\deathmatch_wad\\Textures.wad";
 				option1 = 0;
 				option2 = 0;
 				notfortesting = 0;
+				requiredarchives = "";
 			}
 		}
 		overrideceiltexture = false;
-		viewpositionx = -149.1059f;
+		viewpositionx = 292.0727f;
 		defaulttoptexture = "BROWN4";
 		overrideceilheight = false;
 		useresourcesinreadonlymode = false;
@@ -95,20 +125,48 @@ maps
 			gridrotate = 0;
 			backscalex = 100;
 			gridoriginx = 0;
-			gridsize = 8;
+			gridsize = 4;
 			background = "";
 			backoffsety = 0;
 		}
 		overridebottomtexture = false;
 		defaultbottomtexture = "BROWN4";
 		defaultfloortexture = "FLOOR0_1";
-		viewpositiony = 445.0985f;
+		viewpositiony = -107.4129f;
 		defaultwalltexture = "BROWN4";
 		overridetoptexture = false;
 		customceilheight = 128;
 		overridemiddletexture = false;
 		custombrightness = 196;
-		viewscale = 2.639231f;
+		viewscale = 0.1914448f;
+		
+		reloadresourceprecommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		
+		reloadresourcepostcommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		
+		testprecommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		
+		testpostcommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
 	}
 	
 	MAP02
@@ -125,17 +183,18 @@ maps
 			resource0
 			{
 				type = 0;
-				location = "C:\\Users\\Luca\\Documents\\Doom\\Dm\\Textures.wad";
+				location = "D:\\Luca\\Documents\\Doom\\deathmatch_wad\\Textures.wad";
 				option1 = 0;
 				option2 = 0;
 				notfortesting = 0;
+				requiredarchives = "";
 			}
 		}
 		overrideceiltexture = false;
-		viewpositionx = -1731.047f;
+		viewpositionx = -5662.582f;
 		defaulttoptexture = "BIGBRIK2";
 		overrideceilheight = false;
-		viewpositiony = -1067.132f;
+		viewpositiony = -469.3209f;
 		overridebrightness = false;
 		overridefloortexture = false;
 		
@@ -148,7 +207,7 @@ maps
 			gridrotate = 0;
 			backscalex = 100;
 			gridoriginx = 0;
-			gridsize = 1;
+			gridsize = 16;
 			background = "";
 			backoffsety = 0;
 		}
@@ -160,7 +219,35 @@ maps
 		customceilheight = 128;
 		overridemiddletexture = false;
 		custombrightness = 196;
-		viewscale = 5.488718f;
+		viewscale = 0.05805307f;
+		
+		reloadresourceprecommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		
+		reloadresourcepostcommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		
+		testprecommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		
+		testpostcommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
 	}
 	
 	MAP06
@@ -281,17 +368,18 @@ maps
 			resource0
 			{
 				type = 0;
-				location = "C:\\Users\\Luca\\Documents\\Doom\\deathmatch_wad\\Textures.wad";
+				location = "D:\\Luca\\Documents\\Doom\\deathmatch_wad\\Textures.wad";
 				option1 = 0;
 				option2 = 0;
 				notfortesting = 0;
+				requiredarchives = "";
 			}
 		}
 		overrideceiltexture = false;
-		viewpositionx = 2581.985f;
+		viewpositionx = -127.0279f;
 		defaulttoptexture = "SUPP332";
 		overrideceilheight = false;
-		viewpositiony = 1836.028f;
+		viewpositiony = 396.8985f;
 		overridebrightness = false;
 		overridefloortexture = false;
 		
@@ -304,7 +392,7 @@ maps
 			gridrotate = 0;
 			backscalex = 100;
 			gridoriginx = 0;
-			gridsize = 2;
+			gridsize = 8;
 			background = "";
 			backoffsety = 0;
 		}
@@ -326,7 +414,35 @@ maps
 		customceilheight = 128;
 		overridemiddletexture = false;
 		custombrightness = 196;
-		viewscale = 0.08316278f;
+		viewscale = 1.937533f;
+		
+		reloadresourceprecommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		
+		reloadresourcepostcommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		
+		testprecommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		
+		testpostcommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
 	}
 	
 	MAP09
@@ -343,17 +459,18 @@ maps
 			resource0
 			{
 				type = 0;
-				location = "C:\\Users\\Luca\\Documents\\Doom\\deathmatch_wad\\Textures.wad";
+				location = "D:\\Luca\\Documents\\Doom\\deathmatch_wad\\Textures.wad";
 				option1 = 0;
 				option2 = 0;
 				notfortesting = 0;
+				requiredarchives = "";
 			}
 		}
 		overrideceiltexture = false;
-		viewpositionx = 916.4863f;
+		viewpositionx = 709.7191f;
 		defaulttoptexture = "SNOWMID1";
 		overrideceilheight = false;
-		viewpositiony = 708.2598f;
+		viewpositiony = 1735.645f;
 		overridebrightness = false;
 		overridefloortexture = false;
 		
@@ -366,7 +483,7 @@ maps
 			gridrotate = 0;
 			backscalex = 100;
 			gridoriginx = 0;
-			gridsize = 4;
+			gridsize = 16;
 			background = "";
 			backoffsety = 0;
 		}
@@ -378,7 +495,81 @@ maps
 		customceilheight = 128;
 		overridemiddletexture = false;
 		custombrightness = 196;
-		viewscale = 7.056374f;
+		viewscale = 6.528385f;
+		
+		plugins
+		{
+			
+			stairsectorbuilder
+			{
+				
+				prefabs
+				{
+					
+					prefab1
+					{
+						name = "[Previous]";
+						numberofsectors = 1;
+						outervertexmultiplier = 1;
+						innervertexmultiplier = 1;
+						stairtype = 0;
+						sectordepth = 8;
+						spacing = 0;
+						frontside = true;
+						singlesectors = true;
+						distinctsectors = false;
+						singledirection = false;
+						distinctbaseheights = true;
+						flipping = 0;
+						numberofcontrolpoints = 1;
+						applyfloormod = true;
+						floormod = 0;
+						applyceilingmod = true;
+						ceilingmod = 0;
+						applyfloortexture = false;
+						floortexture = "";
+						applyceilingtexture = false;
+						ceilingtexture = "";
+						applyuppertexture = true;
+						uppertexture = "TEKGRE13";
+						upperunpegged = true;
+						applymiddletexture = false;
+						middletexture = "-";
+						applylowertexture = true;
+						lowertexture = "-";
+						lowerunpegged = true;
+					}
+				}
+			}
+		}
+		
+		reloadresourceprecommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		
+		reloadresourcepostcommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		
+		testprecommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		
+		testpostcommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
 	}
 	
 	MAP10
@@ -431,5 +622,219 @@ maps
 		overridemiddletexture = false;
 		custombrightness = 196;
 		viewscale = 0.2124013f;
+	}
+	
+	MAP11
+	{
+		defaultceiltexture = "CEIL1_1";
+		overridefloorheight = false;
+		customfloorheight = 0;
+		uselongtexturenames = false;
+		scriptcompiler = "zdaemon_acs.cfg";
+		
+		resources
+		{
+			
+			resource0
+			{
+				type = 0;
+				location = "C:\\Users\\Luca\\Documents\\Doom\\deathmatch_wad\\Textures.wad";
+				option1 = 0;
+				option2 = 0;
+				notfortesting = 0;
+			}
+		}
+		overrideceiltexture = false;
+		viewpositionx = 1088f;
+		defaulttoptexture = "BROWN96";
+		overrideceilheight = false;
+		viewpositiony = 32f;
+		overridebrightness = false;
+		overridefloortexture = false;
+		
+		grid
+		{
+			backoffsetx = 0;
+			backsource = 0;
+			gridoriginy = 0;
+			backscaley = 100;
+			gridrotate = 0;
+			backscalex = 100;
+			gridoriginx = 0;
+			gridsize = 4;
+			background = "";
+			backoffsety = 0;
+		}
+		overridebottomtexture = false;
+		defaultbottomtexture = "BROWN96";
+		defaultfloortexture = "FLOOR0_1";
+		defaultwalltexture = "BROWN96";
+		overridetoptexture = false;
+		customceilheight = 128;
+		overridemiddletexture = false;
+		custombrightness = 196;
+		viewscale = 0.1733897f;
+	}
+	
+	MAP13
+	{
+		
+		resources
+		{
+			
+			resource0
+			{
+				type = 0;
+				location = "D:\\Luca\\Documents\\Doom\\deathmatch_wad\\Textures.wad";
+				option1 = 0;
+				option2 = 0;
+				notfortesting = 0;
+				requiredarchives = "";
+			}
+		}
+		defaultfloortexture = "FLOOR0_1";
+		defaultceiltexture = "F_SKY1";
+		defaulttoptexture = "STARTAN2";
+		defaultwalltexture = "STARTAN2";
+		defaultbottomtexture = "STARTAN2";
+		custombrightness = 196;
+		customfloorheight = 0;
+		customceilheight = 128;
+		overridefloortexture = false;
+		overrideceiltexture = false;
+		overridetoptexture = false;
+		overridemiddletexture = false;
+		overridebottomtexture = false;
+		overridefloorheight = false;
+		overrideceilheight = false;
+		overridebrightness = false;
+		uselongtexturenames = false;
+		viewpositionx = -412.7706f;
+		viewpositiony = -650.2442f;
+		viewscale = 0.2329804f;
+		scriptcompiler = "zdaemon_acs.cfg";
+		
+		grid
+		{
+			background = "";
+			backsource = 0;
+			backoffsetx = 0;
+			backoffsety = 0;
+			backscalex = 100;
+			backscaley = 100;
+			gridsize = 16;
+			gridrotate = 0;
+			gridoriginx = 0;
+			gridoriginy = 0;
+		}
+		
+		reloadresourceprecommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		
+		reloadresourcepostcommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		
+		testprecommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		
+		testpostcommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+	}
+	
+	MAP04
+	{
+		defaultwalltexture = "BROWNGRN";
+		overridemiddletexture = false;
+		defaultceiltexture = "CEIL1_1";
+		overrideceiltexture = false;
+		custombrightness = 196;
+		scriptcompiler = "zdaemon_acs.cfg";
+		
+		resources
+		{
+			
+			resource0
+			{
+				type = 0;
+				location = "D:\\Luca\\Documents\\Doom\\deathmatch_wad\\Textures.wad";
+				option1 = 0;
+				option2 = 0;
+				notfortesting = 0;
+				requiredarchives = "";
+			}
+		}
+		viewpositiony = -1643.209f;
+		viewpositionx = -847.8599f;
+		
+		testprecommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		customceilheight = 128;
+		customfloorheight = 0;
+		
+		grid
+		{
+			backoffsetx = 0;
+			backsource = 0;
+			gridoriginy = 0;
+			backscaley = 100;
+			gridrotate = 0;
+			backscalex = 100;
+			gridoriginx = 0;
+			gridsize = 32;
+			background = "";
+			backoffsety = 0;
+		}
+		viewscale = 1.461918f;
+		
+		reloadresourceprecommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		defaulttoptexture = "BROWNGRN";
+		overridebottomtexture = false;
+		defaultbottomtexture = "BROWNGRN";
+		defaultfloortexture = "FLOOR0_1";
+		overrideceilheight = false;
+		overridebrightness = false;
+		
+		testpostcommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		overridefloorheight = false;
+		overridetoptexture = false;
+		uselongtexturenames = false;
+		overridefloortexture = false;
+		
+		reloadresourcepostcommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
 	}
 }
