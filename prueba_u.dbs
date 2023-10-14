@@ -27,7 +27,7 @@ maps
 			}
 		}
 		overrideceiltexture = false;
-		viewpositionx = -342.0833f;
+		viewpositionx = 183.155f;
 		defaulttoptexture = "BRONZEG5";
 		overrideceilheight = false;
 		useresourcesinreadonlymode = false;
@@ -50,13 +50,13 @@ maps
 		overridebottomtexture = false;
 		defaultbottomtexture = "BRONZEG5";
 		defaultfloortexture = "FLOOR0_B";
-		viewpositiony = -709.0214f;
+		viewpositiony = 601.6321f;
 		defaultwalltexture = "BRONZEG5";
 		overridetoptexture = false;
 		customceilheight = 128;
 		overridemiddletexture = false;
 		custombrightness = 196;
-		viewscale = 11.92527f;
+		viewscale = 0.665413f;
 		
 		reloadresourceprecommand
 		{
@@ -191,10 +191,10 @@ maps
 			}
 		}
 		overrideceiltexture = false;
-		viewpositionx = -5662.582f;
+		viewpositionx = -1711.05f;
 		defaulttoptexture = "BIGBRIK2";
 		overrideceilheight = false;
-		viewpositiony = -469.3209f;
+		viewpositiony = -945.5497f;
 		overridebrightness = false;
 		overridefloortexture = false;
 		
@@ -207,7 +207,7 @@ maps
 			gridrotate = 0;
 			backscalex = 100;
 			gridoriginx = 0;
-			gridsize = 16;
+			gridsize = 1;
 			background = "";
 			backoffsety = 0;
 		}
@@ -219,7 +219,7 @@ maps
 		customceilheight = 128;
 		overridemiddletexture = false;
 		custombrightness = 196;
-		viewscale = 0.05805307f;
+		viewscale = 1.040401f;
 		
 		reloadresourceprecommand
 		{
@@ -709,9 +709,9 @@ maps
 		overrideceilheight = false;
 		overridebrightness = false;
 		uselongtexturenames = false;
-		viewpositionx = -412.7706f;
-		viewpositiony = -650.2442f;
-		viewscale = 0.2329804f;
+		viewpositionx = -632.1359f;
+		viewpositiony = -790.3959f;
+		viewscale = 0.3937356f;
 		scriptcompiler = "zdaemon_acs.cfg";
 		
 		grid
@@ -722,7 +722,7 @@ maps
 			backoffsety = 0;
 			backscalex = 100;
 			backscaley = 100;
-			gridsize = 16;
+			gridsize = 32;
 			gridrotate = 0;
 			gridoriginx = 0;
 			gridoriginy = 0;
